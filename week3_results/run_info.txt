@@ -1,0 +1,10 @@
+Python version: 3.14.2
+NumPy version: 2.5.4
+scikit-learn version: 1.9.1
+XGBoost version: 3.4.1
+Random state: 42
+X_train shape: (3800, 10)
+X_test shape: (950, 10)
+Classes: ['A', 'B', 'C', 'D', 'E']
+Evaluation: hold-out test set
+Metrics: Accuracy, Macro Precision, Macro Recall, Macro F1
